@@ -7,11 +7,11 @@ Authors@R: c(person("Francesca Pia", "Caruso", email = "francescapia.caruso@gmai
 Author: Michele Ceccarelli [aut, cre],
   Francesca Pia Caruso [aut] 
 Maintainer: Michele Ceccarelli <m.ceccarelli@gmail.com>
-Description: Data for the vignette and tutorial of the  scTHI package scTHI.  
+Description: Data for the vignette and tutorial of the package scTHI.  
 License: GPL-2
 Depends: R (>= 3.4)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1.9000
-biocViews: SingleCell, Preprocessing, DNASeq, RNASeq
+biocViews: ExperimentData
 
