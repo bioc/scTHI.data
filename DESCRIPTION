@@ -1,7 +1,7 @@
 Package: scTHI.data
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.99.2 
+Version: 0.99.3 
 Authors@R: c(person("Francesca Pia", "Caruso", email = "francescapia.caruso@gmail.com", role = c("aut")),
         person("Michele", "Ceccarelli", email = "m.ceccarelli@gmail.com", role = c("aut", "cre")))
 Author: Michele Ceccarelli [aut, cre],
