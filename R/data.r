@@ -43,3 +43,9 @@
 #' Science, 360(6386), 331-335.
 #' H3K27.annotation
 "H3K27.meta"
+
+#' Example expression matrix for scTHI.
+#'
+#' A 2000 x 100 matrix from the wiki manual to showcase the use of scTHI
+#' scExample 
+"scExample"
