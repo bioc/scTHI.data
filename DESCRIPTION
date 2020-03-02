@@ -1,7 +1,7 @@
 Package: scTHI.data
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.99.7 
+Version: 0.99.8 
 Authors@R: c(person("Francesca Pia", "Caruso", email = "francescapia.caruso@gmail.com", role = c("aut")),
         person("Michele", "Ceccarelli", email = "m.ceccarelli@gmail.com", role = c("aut", "cre")))
 Description: Data for the vignette and tutorial of the package scTHI.  
