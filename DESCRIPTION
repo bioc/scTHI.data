@@ -1,6 +1,6 @@
 Package: scTHI.data
 Type: Package
-Title: The package contains examples of single cell data used in vignettes and examples of the scTHI package. Matrices contain both tumor cells and immune cells from public dataset of glioma  
+Title: The package contains examples of single cell data used in vignettes and examples of the scTHI package; data contain both tumor cells and immune cells from public dataset of glioma  
 Version: 0.99.9
 Authors@R: c(person("Francesca Pia", "Caruso", email = "francescapia.caruso@gmail.com", role = c("aut")),
         person("Michele", "Ceccarelli", email = "m.ceccarelli@gmail.com", role = c("aut", "cre")))
