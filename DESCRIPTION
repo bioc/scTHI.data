@@ -1,7 +1,7 @@
 Package: scTHI.data
 Type: Package
 Title: The package contains examples of single cell data used in vignettes and examples of the scTHI package; data contain both tumor cells and immune cells from public dataset of glioma  
-Version: 1.15.0
+Version: 1.16.0
 Authors@R: c(person("Francesca Pia", "Caruso", email = "francescapia.caruso@gmail.com", role = c("aut")),
         person("Michele", "Ceccarelli", email = "m.ceccarelli@gmail.com", role = c("aut", "cre")))
 Description: Data for the vignette and tutorial of the package scTHI.  
